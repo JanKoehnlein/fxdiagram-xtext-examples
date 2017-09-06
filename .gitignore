@@ -1,0 +1,7 @@
+bin/
+target/
+xtend-gen/
+xtext-gen/
+emf-gen/
+src-gen/
+generated/
